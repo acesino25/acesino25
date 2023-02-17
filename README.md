@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **all kind of projects**
 
-- 💬 Ask me about **React, C, Go, Javascript**
+- 💬 Ask me about **React, C, Go, Javascript, Python, FastAPI**
 
 - 📫 How to reach me **jotsuha@hotmail.com**
 
