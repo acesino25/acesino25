@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [File State System for National institution (Dirección provincial de defensa el consumidor)](https://github.com/acesino25/defensaSistemadeExpedientes)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**, **Java**
 
 - 👯 I’m looking to collaborate on **all kind of projects**
 
