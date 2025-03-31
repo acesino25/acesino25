@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acesino25" alt="acesino25" /></a> </p>
 
-- 🔭 I’m currently working on [File State System for National institution (Dirección provincial de defensa el consumidor)](https://github.com/acesino25/defensaSistemadeExpedientes)
+- 🔭 I’m currently working as Developer
 
 - 🌱 I’m currently learning/improving **Python**, **Postgre, Supabase, AWS Services**
 
